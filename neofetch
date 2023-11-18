@@ -10171,8 +10171,8 @@ EOF
 	"rlxos"*)
 	    set_colors 2
                 read -rd '' ascii_data << 'EOF'
- ${c1}                                                                               
-                                        
+ ${c1}  
+
  ######   ######.                       
     ######## ####                       
     ####     ####                       
